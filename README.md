@@ -1,1 +1,24 @@
-# probabilistic-forecasting-for-planning-101
+# Probabilistic forecasting for planning 101
+
+Applied Machine Learning Days 2024
+Lausanne, Switzerland
+
+Sunday, March 24, 2024
+from 14h00 to 15h30 and from 16h00 t0 17h30 CET
+
+Welcome! This is the companion repository of the Probabilistic forecasting for planning 101 workshop.
+
+Join us to explore the fundamental concepts of combining probabilistic forecasting and optimization techniques to make more informed planning decisions. This is a relaxed-paced workshop that only requires basic Python programming experience and focuses on the exploration of key ideas for building and evaluating a planning system. These concepts are applicable in various domains such as retail, energy demand planning, or capacity planning.
+Prerequisites: basic Python programming experience and a basic understanding of statistics are required.
+
+## Link to this repo
+[https://tinyurl.com/4dezs2m9](https://tinyurl.com/4dezs2m9)
+
+## Authors
+- Stephanie Brueckner
+- Matias Callara
+- Patric Hammler
+- Nicolas Riesterer
+
+## Content
+[Part I](https://colab.research.google.com/drive/1ecc7JH6gixHyVP1ND1pC3jUHs-yMO5tF#scrollTo=Yw7NXfmEByas)
