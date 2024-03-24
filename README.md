@@ -48,3 +48,4 @@ Basic Python programming experience and a basic understanding of statistics are 
 ## Content
 [Part I - Business Forecasting with Point and Probabilistic Forecasts](https://colab.research.google.com/drive/1ecc7JH6gixHyVP1ND1pC3jUHs-yMO5tF#scrollTo=Yw7NXfmEByas) <br>
 [Part II - Practical Application of Probabilistic Forecasting](https://colab.research.google.com/github/mcallara/probabilistic-forecasting-for-planning-101/blob/main/Part_II_Practical_Application_%5BStephanie_Brueckner%5D_%5BParticipants_Version%5D.ipynb)
+[Part II - Evaluating Probabilistic Forecasts](https://colab.research.google.com/github/mcallara/probabilistic-forecasting-for-planning-101/blob/main/Part_III_EvaluatingProbabilisticForecasts%5BNicolasRiesterer%5D.ipynb)
