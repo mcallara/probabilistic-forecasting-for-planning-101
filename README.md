@@ -46,4 +46,4 @@ This session is designed for individuals interested in acquiring fundamental kno
 Basic Python programming experience and a basic understanding of statistics are required.
 
 ## Content
-[Part I](https://colab.research.google.com/drive/1ecc7JH6gixHyVP1ND1pC3jUHs-yMO5tF#scrollTo=Yw7NXfmEByas)
+[Part I - Business Forecasting with Point and Probabilistic Forecasts](https://colab.research.google.com/drive/1ecc7JH6gixHyVP1ND1pC3jUHs-yMO5tF#scrollTo=Yw7NXfmEByas)
