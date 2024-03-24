@@ -46,5 +46,5 @@ This session is designed for individuals interested in acquiring fundamental kno
 Basic Python programming experience and a basic understanding of statistics are required.
 
 ## Content
-[Part I - Business Forecasting with Point and Probabilistic Forecasts](https://colab.research.google.com/drive/1ecc7JH6gixHyVP1ND1pC3jUHs-yMO5tF#scrollTo=Yw7NXfmEByas)
+[Part I - Business Forecasting with Point and Probabilistic Forecasts](https://colab.research.google.com/drive/1ecc7JH6gixHyVP1ND1pC3jUHs-yMO5tF#scrollTo=Yw7NXfmEByas) <br>
 [Part II - Practical Application of Probabilistic Forecasting](https://colab.research.google.com/github/mcallara/probabilistic-forecasting-for-planning-101/blob/main/%5BPractical_Application_of_Probabilistic_Forecasting%5D%5BParticipants_Version%5D_Probabilistic_Forecasting_for_Planning_101.ipynb)
